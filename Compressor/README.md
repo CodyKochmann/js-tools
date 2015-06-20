@@ -1,5 +1,3 @@
-
-
 |Compressor.js|A simple standalone wrapper for easy JS compression|
 |---|---|
 |Author|Cody Kochmann|
@@ -19,6 +17,3 @@ This tool is a javascript compressor which has LZString wrapped inside it. It on
 |:---:|:---:|:---:|:---|
 |6-18-2015|2|0.2|<i>Added</i> - minified version.<br><i>Changed</i> - cleaned up the code with coffeescript.|
 |6-18-2015|1|0.1|<i>Added</i> - Initial build of the compressor.|
-
-
-
